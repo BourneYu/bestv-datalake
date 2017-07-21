@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: datalake-client:swagger-client:2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/datalake-client/swagger-client/2.0-SNAPSHOT/swagger-client-2.0-20160912.081123-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/datalake-client/swagger-client/2.0-SNAPSHOT/swagger-client-2.0-20160912.081123-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/datalake-client/swagger-client/2.0-SNAPSHOT/swagger-client-2.0-20160912.081123-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

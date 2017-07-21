@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataLake.iml" filepath="$PROJECT_DIR$/DataLake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datalake-application/datalake-application.iml" filepath="$PROJECT_DIR$/datalake-application/datalake-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datalake-metastore/datalake-metastore.iml" filepath="$PROJECT_DIR$/datalake-metastore/datalake-metastore.iml" />
+    </modules>
+  </component>
+</project>

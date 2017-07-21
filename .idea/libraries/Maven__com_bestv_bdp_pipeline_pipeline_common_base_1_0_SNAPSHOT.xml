@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bestv.bdp.pipeline:pipeline-common-base:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bestv/bdp/pipeline/pipeline-common-base/1.0-SNAPSHOT/pipeline-common-base-1.0-20160714.080402-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bestv/bdp/pipeline/pipeline-common-base/1.0-SNAPSHOT/pipeline-common-base-1.0-20160714.080402-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bestv/bdp/pipeline/pipeline-common-base/1.0-SNAPSHOT/pipeline-common-base-1.0-20160714.080402-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

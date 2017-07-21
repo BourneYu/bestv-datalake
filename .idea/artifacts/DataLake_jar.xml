@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataLake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataLake_jar</output-path>
+    <root id="archive" name="DataLake.jar">
+      <element id="module-output" name="DataLake" />
+      <element id="module-output" name="datalake-application" />
+      <element id="module-output" name="datalake-metastore" />
+    </root>
+  </artifact>
+</component>

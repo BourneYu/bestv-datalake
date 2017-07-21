@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: datalake-client:dataservice:2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/datalake-client/dataservice/2.0-SNAPSHOT/dataservice-2.0-20160912.081127-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/datalake-client/dataservice/2.0-SNAPSHOT/dataservice-2.0-20160912.081127-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/datalake-client/dataservice/2.0-SNAPSHOT/dataservice-2.0-20160912.081127-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
